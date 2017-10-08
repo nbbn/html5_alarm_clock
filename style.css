@@ -1,0 +1,28 @@
+.column {
+    margin: 0 auto;
+}
+
+h1, h2, h3 {
+    margin-top: 3rem;
+    margin-bottom: 0.7rem;
+}
+
+input.form-input {
+    display: inline;
+    width: 35em;
+}
+
+input.form-input[type=number] {
+    width: 5em;
+}
+
+.btn-reset{
+    background: #e85600 !important;
+    color:black!important;
+    font-weight: bold;
+}
+
+#autoplay-info{
+    font-weight: bold;
+
+}
